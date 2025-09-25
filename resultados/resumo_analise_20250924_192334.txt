@@ -1,0 +1,13 @@
+=== RESUMO DA ANÁLISE DE LIVROS ===
+
+Data da coleta: 20250924_192334
+Total de livros analisados: 60
+Preço médio: £35.00
+Avaliação média: 3.00/5.0
+
+Distribuição por rating:
+  One: 15 livros
+  Five: 14 livros
+  Three: 13 livros
+  Four: 10 livros
+  Two: 8 livros

@@ -1,0 +1,626 @@
+{
+  "metadata": {
+    "data_coleta": "20250924_192334",
+    "total_livros": 60,
+    "projeto": "Analisador de Livros - Web Scraping Ético"
+  },
+  "analise": {
+    "total_livros": 60,
+    "preco_medio": "£35.00",
+    "avaliacao_media": 3.0,
+    "distribuicao_rating": {
+      "One": 15,
+      "Five": 14,
+      "Three": 13,
+      "Four": 10,
+      "Two": 8
+    },
+    "livros_por_pagina": {
+      "1": 20,
+      "2": 20,
+      "3": 20
+    }
+  },
+  "dados": [
+    {
+      "titulo": "A Light in the Attic",
+      "preco": "£51.77",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:21.902488",
+      "numero_sequencia": 1,
+      "pagina": 1
+    },
+    {
+      "titulo": "Tipping the Velvet",
+      "preco": "£53.74",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:21.947494",
+      "numero_sequencia": 2,
+      "pagina": 1
+    },
+    {
+      "titulo": "Soumission",
+      "preco": "£50.10",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:21.957541",
+      "numero_sequencia": 3,
+      "pagina": 1
+    },
+    {
+      "titulo": "Sharp Objects",
+      "preco": "£47.82",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:21.994453",
+      "numero_sequencia": 4,
+      "pagina": 1
+    },
+    {
+      "titulo": "Sapiens: A Brief History of Humankind",
+      "preco": "£54.23",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:22.009028",
+      "numero_sequencia": 5,
+      "pagina": 1
+    },
+    {
+      "titulo": "The Requiem Red",
+      "preco": "£22.65",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:22.075292",
+      "numero_sequencia": 6,
+      "pagina": 1
+    },
+    {
+      "titulo": "The Dirty Little Secrets of Getting Your Dream Job",
+      "preco": "£33.34",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:22.084194",
+      "numero_sequencia": 7,
+      "pagina": 1
+    },
+    {
+      "titulo": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",
+      "preco": "£17.93",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:22.095536",
+      "numero_sequencia": 8,
+      "pagina": 1
+    },
+    {
+      "titulo": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics",
+      "preco": "£22.60",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:22.173449",
+      "numero_sequencia": 9,
+      "pagina": 1
+    },
+    {
+      "titulo": "The Black Maria",
+      "preco": "£52.15",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:22.255672",
+      "numero_sequencia": 10,
+      "pagina": 1
+    },
+    {
+      "titulo": "Starving Hearts (Triangular Trade Trilogy, #1)",
+      "preco": "£13.99",
+      "disponibilidade": "In stock",
+      "rating_texto": "Two",
+      "rating_numero": 2,
+      "timestamp_coleta": "2025-09-24T19:23:22.260388",
+      "numero_sequencia": 11,
+      "pagina": 1
+    },
+    {
+      "titulo": "Shakespeare's Sonnets",
+      "preco": "£20.66",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:22.265037",
+      "numero_sequencia": 12,
+      "pagina": 1
+    },
+    {
+      "titulo": "Set Me Free",
+      "preco": "£17.46",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:22.280162",
+      "numero_sequencia": 13,
+      "pagina": 1
+    },
+    {
+      "titulo": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)",
+      "preco": "£52.29",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:22.285184",
+      "numero_sequencia": 14,
+      "pagina": 1
+    },
+    {
+      "titulo": "Rip it Up and Start Again",
+      "preco": "£35.02",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:22.343966",
+      "numero_sequencia": 15,
+      "pagina": 1
+    },
+    {
+      "titulo": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
+      "preco": "£57.25",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:22.368121",
+      "numero_sequencia": 16,
+      "pagina": 1
+    },
+    {
+      "titulo": "Olio",
+      "preco": "£23.88",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:22.442889",
+      "numero_sequencia": 17,
+      "pagina": 1
+    },
+    {
+      "titulo": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+      "preco": "£37.59",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:22.459360",
+      "numero_sequencia": 18,
+      "pagina": 1
+    },
+    {
+      "titulo": "Libertarianism for Beginners",
+      "preco": "£51.33",
+      "disponibilidade": "In stock",
+      "rating_texto": "Two",
+      "rating_numero": 2,
+      "timestamp_coleta": "2025-09-24T19:23:22.543388",
+      "numero_sequencia": 19,
+      "pagina": 1
+    },
+    {
+      "titulo": "It's Only the Himalayas",
+      "preco": "£45.17",
+      "disponibilidade": "In stock",
+      "rating_texto": "Two",
+      "rating_numero": 2,
+      "timestamp_coleta": "2025-09-24T19:23:22.551873",
+      "numero_sequencia": 20,
+      "pagina": 1
+    },
+    {
+      "titulo": "In Her Wake",
+      "preco": "£12.84",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:26.789837",
+      "numero_sequencia": 1,
+      "pagina": 2
+    },
+    {
+      "titulo": "How Music Works",
+      "preco": "£37.32",
+      "disponibilidade": "In stock",
+      "rating_texto": "Two",
+      "rating_numero": 2,
+      "timestamp_coleta": "2025-09-24T19:23:26.841736",
+      "numero_sequencia": 2,
+      "pagina": 2
+    },
+    {
+      "titulo": "Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",
+      "preco": "£30.52",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:26.868676",
+      "numero_sequencia": 3,
+      "pagina": 2
+    },
+    {
+      "titulo": "Chase Me (Paris Nights #2)",
+      "preco": "£25.27",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:26.881486",
+      "numero_sequencia": 4,
+      "pagina": 2
+    },
+    {
+      "titulo": "Black Dust",
+      "preco": "£34.53",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:26.985794",
+      "numero_sequencia": 5,
+      "pagina": 2
+    },
+    {
+      "titulo": "Birdsong: A Story in Pictures",
+      "preco": "£54.64",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:27.515179",
+      "numero_sequencia": 6,
+      "pagina": 2
+    },
+    {
+      "titulo": "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana",
+      "preco": "£22.50",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:27.549434",
+      "numero_sequencia": 7,
+      "pagina": 2
+    },
+    {
+      "titulo": "Aladdin and His Wonderful Lamp",
+      "preco": "£53.13",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:27.663035",
+      "numero_sequencia": 8,
+      "pagina": 2
+    },
+    {
+      "titulo": "Worlds Elsewhere: Journeys Around Shakespeare’s Globe",
+      "preco": "£40.30",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:27.715346",
+      "numero_sequencia": 9,
+      "pagina": 2
+    },
+    {
+      "titulo": "Wall and Piece",
+      "preco": "£44.18",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:27.776276",
+      "numero_sequencia": 10,
+      "pagina": 2
+    },
+    {
+      "titulo": "The Four Agreements: A Practical Guide to Personal Freedom",
+      "preco": "£17.66",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:27.782413",
+      "numero_sequencia": 11,
+      "pagina": 2
+    },
+    {
+      "titulo": "The Five Love Languages: How to Express Heartfelt Commitment to Your Mate",
+      "preco": "£31.05",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:27.855749",
+      "numero_sequencia": 12,
+      "pagina": 2
+    },
+    {
+      "titulo": "The Elephant Tree",
+      "preco": "£23.82",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:27.866778",
+      "numero_sequencia": 13,
+      "pagina": 2
+    },
+    {
+      "titulo": "The Bear and the Piano",
+      "preco": "£36.89",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:27.957954",
+      "numero_sequencia": 14,
+      "pagina": 2
+    },
+    {
+      "titulo": "Sophie's World",
+      "preco": "£15.94",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:27.967424",
+      "numero_sequencia": 15,
+      "pagina": 2
+    },
+    {
+      "titulo": "Penny Maybe",
+      "preco": "£33.29",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:28.055107",
+      "numero_sequencia": 16,
+      "pagina": 2
+    },
+    {
+      "titulo": "Maude (1883-1993):She Grew Up with the country",
+      "preco": "£18.02",
+      "disponibilidade": "In stock",
+      "rating_texto": "Two",
+      "rating_numero": 2,
+      "timestamp_coleta": "2025-09-24T19:23:28.064366",
+      "numero_sequencia": 17,
+      "pagina": 2
+    },
+    {
+      "titulo": "In a Dark, Dark Wood",
+      "preco": "£19.63",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:28.074235",
+      "numero_sequencia": 18,
+      "pagina": 2
+    },
+    {
+      "titulo": "Behind Closed Doors",
+      "preco": "£52.22",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:28.158631",
+      "numero_sequencia": 19,
+      "pagina": 2
+    },
+    {
+      "titulo": "You can't bury them all: Poems",
+      "preco": "£33.63",
+      "disponibilidade": "In stock",
+      "rating_texto": "Two",
+      "rating_numero": 2,
+      "timestamp_coleta": "2025-09-24T19:23:28.168773",
+      "numero_sequencia": 20,
+      "pagina": 2
+    },
+    {
+      "titulo": "Slow States of Collapse: Poems",
+      "preco": "£57.31",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:31.946178",
+      "numero_sequencia": 1,
+      "pagina": 3
+    },
+    {
+      "titulo": "Reasons to Stay Alive",
+      "preco": "£26.41",
+      "disponibilidade": "In stock",
+      "rating_texto": "Two",
+      "rating_numero": 2,
+      "timestamp_coleta": "2025-09-24T19:23:31.952351",
+      "numero_sequencia": 2,
+      "pagina": 3
+    },
+    {
+      "titulo": "Private Paris (Private #10)",
+      "preco": "£47.61",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:31.978766",
+      "numero_sequencia": 3,
+      "pagina": 3
+    },
+    {
+      "titulo": "#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.",
+      "preco": "£23.11",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:32.054590",
+      "numero_sequencia": 4,
+      "pagina": 3
+    },
+    {
+      "titulo": "Without Borders (Wanderlove #1)",
+      "preco": "£45.07",
+      "disponibilidade": "In stock",
+      "rating_texto": "Two",
+      "rating_numero": 2,
+      "timestamp_coleta": "2025-09-24T19:23:32.150326",
+      "numero_sequencia": 5,
+      "pagina": 3
+    },
+    {
+      "titulo": "When We Collided",
+      "preco": "£31.77",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:32.171063",
+      "numero_sequencia": 6,
+      "pagina": 3
+    },
+    {
+      "titulo": "We Love You, Charlie Freeman",
+      "preco": "£50.27",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:32.242907",
+      "numero_sequencia": 7,
+      "pagina": 3
+    },
+    {
+      "titulo": "Untitled Collection: Sabbath Poems 2014",
+      "preco": "£14.27",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:32.270467",
+      "numero_sequencia": 8,
+      "pagina": 3
+    },
+    {
+      "titulo": "Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",
+      "preco": "£44.18",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:32.346148",
+      "numero_sequencia": 9,
+      "pagina": 3
+    },
+    {
+      "titulo": "Unicorn Tracks",
+      "preco": "£18.78",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:32.354456",
+      "numero_sequencia": 10,
+      "pagina": 3
+    },
+    {
+      "titulo": "Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",
+      "preco": "£25.52",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:32.427895",
+      "numero_sequencia": 11,
+      "pagina": 3
+    },
+    {
+      "titulo": "Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)",
+      "preco": "£16.28",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:32.437518",
+      "numero_sequencia": 12,
+      "pagina": 3
+    },
+    {
+      "titulo": "Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity",
+      "preco": "£31.12",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:32.483538",
+      "numero_sequencia": 13,
+      "pagina": 3
+    },
+    {
+      "titulo": "This One Summer",
+      "preco": "£19.49",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:32.502934",
+      "numero_sequencia": 14,
+      "pagina": 3
+    },
+    {
+      "titulo": "Thirst",
+      "preco": "£17.27",
+      "disponibilidade": "In stock",
+      "rating_texto": "Five",
+      "rating_numero": 5,
+      "timestamp_coleta": "2025-09-24T19:23:32.574187",
+      "numero_sequencia": 15,
+      "pagina": 3
+    },
+    {
+      "titulo": "The Torch Is Passed: A Harding Family Story",
+      "preco": "£19.09",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:32.581228",
+      "numero_sequencia": 16,
+      "pagina": 3
+    },
+    {
+      "titulo": "The Secret of Dreadwillow Carse",
+      "preco": "£56.13",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:32.600350",
+      "numero_sequencia": 17,
+      "pagina": 3
+    },
+    {
+      "titulo": "The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",
+      "preco": "£56.41",
+      "disponibilidade": "In stock",
+      "rating_texto": "One",
+      "rating_numero": 1,
+      "timestamp_coleta": "2025-09-24T19:23:32.609335",
+      "numero_sequencia": 18,
+      "pagina": 3
+    },
+    {
+      "titulo": "The Past Never Ends",
+      "preco": "£56.50",
+      "disponibilidade": "In stock",
+      "rating_texto": "Four",
+      "rating_numero": 4,
+      "timestamp_coleta": "2025-09-24T19:23:32.666414",
+      "numero_sequencia": 19,
+      "pagina": 3
+    },
+    {
+      "titulo": "The Natural History of Us (The Fine Art of Pretending #2)",
+      "preco": "£45.22",
+      "disponibilidade": "In stock",
+      "rating_texto": "Three",
+      "rating_numero": 3,
+      "timestamp_coleta": "2025-09-24T19:23:32.674955",
+      "numero_sequencia": 20,
+      "pagina": 3
+    }
+  ]
+}
